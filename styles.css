@@ -61,10 +61,9 @@ button {
 
 #messageContainer {
     font-size: 30px;
-    color: #FF0000; /* Color rojo */
+    font-style: oblique, bold;
+    color: #7e2952; /* Color rosita */
     font-family: 'YourDesiredFont', sans-serif; /* Reemplaza 'YourDesiredFont' con la fuente que desees */
-    text-shadow: 2px 2px 4px #000; /* Borde simulado */
-    animation: pulse 0.5s infinite alternate; /* Animación de palpitación más rápida */
 }
 
 @keyframes pulse {
